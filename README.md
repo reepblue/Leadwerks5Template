@@ -3,9 +3,9 @@ This is a bare bones project setup for Leadwerks 5. It's configured so multiple 
 
 ## To Install
 1.  Clone the repo to anywhere on your disk.
-2.  Copy the "Include" and "Libs" folders and paste it into "Engine"   
+2.  Copy the "Include" and "Libs" folders and paste it into "Source/Engine"   
 3.  You can use "genertate_testapp.bat" to generate a simple app using the engine.
-4.  Once that builds, copy the dlls from the SDK and paste it into the newly created folder under "Projects"
+4.  Once that builds, copy the dlls from the SDK and paste it into the newly created project folder under "Projects"
 
 
 ## Notes
